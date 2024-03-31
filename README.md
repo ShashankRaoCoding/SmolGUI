@@ -7,7 +7,7 @@ https://github.com/pygame/pygame
 Alternatively: 
 type pip install pygame into command line. 
 
-### Neither the library nor its creator are affiliated or endorsed by Pygame. No warranties are included and the software is published under the terms of the GNU Lesser General Public License. 
+### Neither the library nor its creator are affiliated or endorsed by Pygame. No warranties are included and the software is published under the terms of the GNU Lesser General Public License. Furthermore, please check the terms of use of Pygame itself. 
 
     This library is free software; you can redistribute it and/or
     modify it under the terms of the GNU Lesser General Public
